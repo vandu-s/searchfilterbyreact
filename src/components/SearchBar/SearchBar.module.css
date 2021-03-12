@@ -1,0 +1,30 @@
+.container{
+  text-align: center;
+}
+.searchWrapper{
+	text-align: center;
+}
+.searchBar{
+ width: 300px;
+ padding: 10px;
+ font-size: 15px;
+ font-weight: 400;
+ margin-bottom: 20px;
+
+}
+.cardWrapper{
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-around;
+	width: 1000px;
+	flex-wrap: wrap;
+}
+.card{
+	width: 25%;
+	background: white;
+	padding: 10px;
+	margin: 10px;
+	box-shadow: 0px 2px 5px #fff;
+	border: 1px solid #fff;
+
+}
